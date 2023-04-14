@@ -1,0 +1,13 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<!DOCTYPE Family SYSTEM "XMLDEFINITION.dtd">
+<Family>
+	<Grandfather>
+		<Father job="DOCTOR">
+			<Mother>mom</Mother>
+			<Son age="23" sport="TENNIS">son1</Son>
+			<Daughter age="20" job="ENGINEER">daughter1</Daughter>
+		</Father>
+		<Uncle>uncle1</Uncle>		
+		<Aunt sons="s1 s2 s3 s4 s5" >aunt1</Aunt>
+	</Grandfather>
+</Family>
