@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElectionResultsByPercentage xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="candidate%20scheme.xsd">
+	<Candidate name="Ahmed">61</Candidate>
+</ElectionResultsByPercentage>
